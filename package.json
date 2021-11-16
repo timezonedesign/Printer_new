@@ -5,7 +5,7 @@
   "private": true,
   "description": "Basic crud react app for managing contacts",
   "dependencies": {
-    "aws-sdk": "^2.532.0",
+    "aws-sdk": "^2.814.0",
     "classnames": "^2.2.5",
     "express": "^4.17.1",
     "mddir": "^1.1.0",
